@@ -11,3 +11,4 @@ This instruction set provides user instructions on sending scheduled messages in
   </li>
   </ul>
   
+Copyright (c) 2022 ffm5113
